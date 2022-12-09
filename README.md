@@ -41,6 +41,10 @@ If the diffuser still cannot fit, try scraping down the walls of the diffuser wi
 
 <img src="./Images/photo2.jpg" width="70%"/>
 
+Short demo video:
+
+[![Watch the video](https://img.youtube.com/vi/2nx_KdSbTtY/hqdefault.jpg)](https://youtu.be/2nx_KdSbTtY)
+
 ## Changelog
 
 ### 2022-10-11
